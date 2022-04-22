@@ -1,5 +1,5 @@
 services:
-  gaotie:
+  KOXray:
     build: .
     ports:
-      - 80:80
+      - "80:80"
