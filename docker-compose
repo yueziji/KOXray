@@ -2,4 +2,4 @@ services:
   gaotie:
     build: .
     ports:
-      - 443:443
+      - 80:80
